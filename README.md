@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mdsaddam7860.github.io/Saddam.github.io/](https://mdsaddam7860.github.io/Saddam.github.io/)
 
-- 💬 Ask me about **Html,css,react,express,mongodb**
+- 💬 Ask me about **HTML,CSS,React Js,Express,MongoDB,React-Native**
 
 - 📫 How to reach me **mdsaddam7@outlook.com**
 
