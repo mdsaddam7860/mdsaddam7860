@@ -1,19 +1,70 @@
 <h1 align="center">Hi 👋, I'm Md Saddam</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Backend Engineer from India</h3>
 
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [https://mdsaddam7860.github.io/Saddam.github.io/](https://mdsaddam7860.github.io/Saddam.github.io/)
-
-- 💬 Ask me about **HTML,CSS,React Js,Express,MongoDB,React-Native**
-
-- 📫 How to reach me **mdsaddam7@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md saddam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md saddam" height="30" width="40" /></a>
-<a href="https://instagram.com/mohammad_saddam_786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad_saddam_786" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://leetcode.com/u/mdsonu2284/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Top%2019%25-orange?style=flat&logo=leetcode" alt="LeetCode Badge">
+  </a>
+  <a href="https://linkedin.com/in/md-saddam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🔭 **Recent Work**: Built scalable backend systems with **Node.js, Express, MongoDB** (99.8% uptime).  
+- 🌱 **Learning**: Mastering **React Native** & advanced system design.  
+- 👨‍💻 **Projects**: [Portfolio](https://mdsaddam7860.github.io/Saddam.github.io/) | [GROWTH-UP Consultancy Platform](#)  
+- 💬 **Ask me about**: Backend development, DSA, or how I led a team of 5 devs at GDG Patna!  
+- 📫 **Reach me**: **mdsonu2284@gmail.com** | +91-7004455742  
+
+---
+
+### 🛠️ Tech Stack  
+**Languages**:  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+
+**Backend**:  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+
+**Frontend**:  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)  
+
+**Tools**:  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
+
+---
+
+### 🏆 Achievements  
+- **LeetCode**: Top 19% globally (Weekly Contest 436) | 400+ DSA problems solved.  
+- **Projects**:  
+  - **GROWTH-UP**: Scalable consultancy platform with 99.8% uptime.  
+  - **Portfolio Website**: 25% SEO improvement through optimized strategies.  
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsaddam7860&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsaddam7860&theme=radical" alt="Streak Stats">
+</p>
+
+---
+
+### 📫 Let's Connect  
+<p align="left">
+  <a href="https://linkedin.com/in/md-saddam" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30">
+  </a>
+  <a href="https://leetcode.com/u/mdsonu2284/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" width="30">
+  </a>
+  <a href="https://instagram.com/mohammad_saddam_786" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30">
+  </a>
+</p>
