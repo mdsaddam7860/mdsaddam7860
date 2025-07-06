@@ -12,7 +12,7 @@
 
 - 🔭 **Recent Work**: Built scalable backend systems with **Node.js, Express, MongoDB** (99.8% uptime).  
 - 🌱 **Learning**: Mastering **React Native** & advanced system design.  
-- 👨‍💻 **Projects**: [Portfolio](https://thesaddam.xyz/) | [GROWTH-UP Consultancy Platform](#)  
+- 👨‍💻 **Projects**: [Portfolio](https://thesaddam.xyz/) | [GROWTH-UP Consultancy Platform](https://growthup-live.vercel.app/)  
 - 💬 **Ask me about**: Backend development, DSA, or how I led a team of 5 devs at GDG Patna!  
 - 📫 **Reach me**: **mdsonu2284@gmail.com** | +91-7004455742  
 
