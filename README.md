@@ -62,7 +62,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30">
   </a>
   <a href="https://leetcode.com/u/mdsonu2284/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" width="30">
+    <img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-green-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-green-tal-revivo"/>
   </a>
   <a href="https://instagram.com/mohammad_saddam_786" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30">
