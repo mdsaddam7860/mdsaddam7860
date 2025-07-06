@@ -58,7 +58,7 @@
 
 ### 📫 Let's Connect  
 <p align="left">
-  <a href="https://linkedin.com/in/md-saddam" target="_blank">
+  <a href="https://linkedin.com/in/mdsaddam1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30">
   </a>
   <a href="https://leetcode.com/u/mdsonu2284/" target="_blank">
