@@ -5,7 +5,7 @@
   <a href="https://leetcode.com/u/mdsonu2284/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Top%2019%25-orange?style=flat&logo=leetcode" alt="LeetCode Badge">
   </a>
-  <a href="https://linkedin.com/in/md-saddam" target="_blank">
+  <a href="https://linkedin.com/in/mdsaddam1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
