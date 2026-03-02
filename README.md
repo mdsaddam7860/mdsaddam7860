@@ -1,70 +1,56 @@
-<h1 align="center">Hi 👋, I'm Mohammad Saddam</h1>
-<h3 align="center">A passionate Backend Engineer from India</h3>
+<h1 align="center">Mohammad Saddam | HubSpot & API Integration Specialist</h1>
+<h3 align="center">Building seamless data bridges for US & European SaaS Companies</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/u/mdsonu2284/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Top%2019%25-orange?style=flat&logo=leetcode" alt="LeetCode Badge">
+  <a href="mailto:mdsonu2284@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Work-Email-red?style=flat&logo=gmail" alt="Email">
   </a>
   <a href="https://linkedin.com/in/mdsaddam1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
+  <a href="https://thesaddam.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Case_Studies-green?style=flat" alt="Portfolio">
+  </a>
 </p>
-
-- 🔭 **Recent Work**: Built scalable backend systems with **Node.js, Express, MongoDB** (99.8% uptime).  
-- 🌱 **Learning**: Mastering **React Native** & advanced system design.  
-- 👨‍💻 **Projects**: [Portfolio](https://thesaddam.xyz/) | [GROWTH-UP Consultancy Platform](https://growthup-live.vercel.app/)  
-- 💬 **Ask me about**: Backend development, DSA, or how I led a team of 5 devs at GDG Patna!  
-- 📫 **Reach me**: **mdsonu2284@gmail.com** | +91-7004455742  
 
 ---
 
-### 🛠️ Tech Stack  
-**Languages**:  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+### 🚀 Business Impact
+I specialize in eliminating data silos. I help SaaS companies automate workflows between **HubSpot**, custom internal tools, and 3rd party APIs using enterprise-grade Node.js middleware.
 
-**Backend**:  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+* **Reliability**: Built backend systems maintaining **99.8% uptime** under heavy load.
+* **Efficiency**: Architected integrations for platforms like **GROWTH-UP**, focusing on data integrity and low-latency syncs.
+* **Specialization**: HubSpot CRM Custom Objects, Webhook handling, and OAuth2.0 implementations.
+
+---
+
+### 🛠️ Core Stack (Integration Focused)
+**Backend & Logic**:  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 
-**Frontend**:  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)  
-
-**Tools**:  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+**Data & Infrastructure**:  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+
+**Tools of the Trade**:  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+**HubSpot API | ServiceM8 | Zapier Webhooks**
 
 ---
 
-### 🏆 Achievements  
-- **LeetCode**: Top 19% globally (Weekly Contest 436) | 400+ DSA problems solved.  
-- **Projects**:  
-  - **GROWTH-UP**: Scalable consultancy platform with 99.8% uptime.  
-  - **Portfolio Website**: 25% SEO improvement through optimized strategies.  
+### 📈 Proof of Excellence
+* **Integration Case Study**: [HubSpot <> ServiceM8 Data Sync](https://thesaddam.xyz/) - Automated bi-directional lead flow.
+* **Growth-Up Platform**: Scaled a consultancy platform from 0 to 1,000+ users with robust API architecture.
+* **DSA Foundation**: Top 19% globally on LeetCode (because clean, optimized logic is non-negotiable).
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsaddam7860&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsaddam7860&theme=radical" alt="Streak Stats">
-</p>
+### 🤝 Let's Discuss Your Integration Pipeline
+I am currently helping SaaS founders in the US and Germany bridge the gap between their sales data and their product. 
 
----
-
-### 📫 Let's Connect  
-<p align="left">
-  <a href="https://linkedin.com/in/mdsaddam1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30">
-  </a>
-  <a href="https://leetcode.com/u/mdsonu2284/" target="_blank">
-    <img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-green-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-green-tal-revivo"/>
-  </a>
-  <a href="https://instagram.com/mohammad_saddam_786" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30">
-  </a>
-</p>
+- 💬 **Ask me about**: Custom HubSpot Workflows, API Rate Limiting, or Webhook security.
+- 📬 **Direct Contact**: [mdsonu2284@gmail.com](mailto:mdsonu2284@gmail.com)
