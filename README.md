@@ -43,7 +43,7 @@ I specialize in eliminating data silos. I help SaaS companies automate workflows
 ---
 
 ### 📈 Proof of Excellence
-* **Integration Case Study**: [HubSpot <> ServiceM8 Data Sync](https://portfolio-for-saa-s-integration-9k5cuc980-md-saddams-projects.vercel.app/) - Automated bi-directional lead flow.
+* **Integration Case Study**: [HubSpot <> ServiceM8 Data Sync](https://engineeredbysaddam.vercel.app/) - Automated bi-directional lead flow.
 * **Growth-Up Platform**: Scaled a consultancy platform from 0 to 1,000+ users with robust API architecture.
 * **DSA Foundation**: Top 19% globally on LeetCode (because clean, optimized logic is non-negotiable).
 
